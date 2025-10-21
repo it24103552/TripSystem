@@ -1,9 +1,8 @@
 package com.example.tripsystem.features.payment_management;
 
-import com.example.tripsystem.features.booking_management.BookingModel;
 import com.example.tripsystem.features.user_management.UserModel;
+import com.example.tripsystem.features.booking_management.BookingModel;
 import jakarta.persistence.*;
-
 import java.math.BigDecimal;
 
 @Entity
